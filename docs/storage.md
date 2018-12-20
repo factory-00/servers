@@ -5,12 +5,16 @@
 ## Хранилище
 
 - storage
-  - users
-    - user_01
-    - user_02
-  - projects
-    - project_01
-    - project_02
+  - cache
   - databases
     - redis
     - mysql
+  - logs
+  - projects
+    - project_01
+    - project_02
+  - sessions
+  - tmp
+  - users
+    - user_01
+    - user_02
